@@ -136,13 +136,6 @@ for download instructions.
 
 ---
 
-## 📂 Repository Structure
-
-
-for download instructions.
-
----
-
 ## 🛠 Tools Used
 
 - Python  
@@ -157,7 +150,9 @@ for download instructions.
 ## 📂 Repository Structure
 
 *notebooks/* → stepwise analysis notebooks
+
 *figures/* → generated plots and visualizations
+
 *data/* → instructions for downloading TCGA datasets
 
 
