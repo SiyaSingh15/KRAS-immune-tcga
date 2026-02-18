@@ -91,6 +91,21 @@ This revealed strong immune differences associated with mutation context.
 
 ---
 
+## 📓 View Analysis Notebooks Online (No Setup Needed)
+
+You can open the full analysis notebooks directly in your browser:
+
+- Week 1 — KRAS subtype immune analysis  
+https://nbviewer.org/github/SiyaSingh15/KRAS-immune-tcga/blob/main/notebooks/01_KRAS_subtype_analysis.ipynb  
+
+- Week 2 — KRAS co-mutation immune context  
+https://nbviewer.org/github/SiyaSingh15/KRAS-immune-tcga/blob/main/notebooks/02_KRAS_comutation_analysis.ipynb
+
+- Week 3 — Immune driver gene and pathway analysis  
+https://nbviewer.org/github/SiyaSingh15/KRAS-immune-tcga/blob/main/notebooks/03_immune_driver_analysis.ipynb
+
+---
+
 ## 📊 Example Outputs
 
 This repository includes:
