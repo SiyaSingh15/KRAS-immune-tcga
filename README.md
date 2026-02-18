@@ -151,17 +151,6 @@ for download instructions.
 
 ---
 
-## 🛠 Tools Used
-
-- Python  
-- Pandas  
-- NumPy  
-- Seaborn  
-- Scikit-learn  
-- SciPy  
-
----
-
 ## 📂 Repository Structure
 
 *notebooks/* → stepwise analysis notebooks
